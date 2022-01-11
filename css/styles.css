@@ -655,7 +655,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-  width: 7.0625rem;
+  /* width: 7.0625rem; */
 	height: 2rem;
 	-webkit-backface-visibility: hidden;
 }
@@ -663,7 +663,7 @@ input[type='checkbox'] {
 .navbar-custom .navbar-brand.logo-text {
 	margin-top: 0.25rem;
 	margin-bottom: 0.25rem;
-	font: 700 2.25rem/1.5rem "Montserrat", sans-serif;
+	font: 700 1.25rem/1.5rem "Montserrat", sans-serif;
 	color: #fff;
 	text-decoration: none;
 }
